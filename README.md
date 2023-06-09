@@ -10,4 +10,12 @@ Dissolved Oxygen (DO): DO measures the amount of oxygen dissolved in water and i
 
 Temperature: Temperature affects various physical, chemical, and biological processes in water bodies. It is an essential factor that influences the rate of many aquatic processes.
 
+Biochemical Oxygen Demand (BOD): BOD measures the amount of oxygen microorganisms require to decompose organic matter in water. High BOD levels can indicate that the water is polluted with organic matter and may not be suitable for consumption or recreation.
+
+Total Suspended Solids (TSS): TSS measures the amount of solids suspended in water, including organic matter, sediment, and other pollutants. High TSS levels can indicate poor water quality and affect aquatic life and other uses of water.
+
+Nitrate-Nitrogen (NO3-N): NO3-N measures the amount of nitrate in water. Nitrate is an essential nutrient for plant growth, but high nitrate levels in drinking water can harm human health.
+
+The dataset contains 200 rows, each representing a unique water quality measurement across all six parameters. The dataset suits various data science applications such as data visualization, machine learning, and statistical analysis. It can be used to explore and analyze water quality trends, patterns, and relationships and can help researchers and analysts gain insights into the complex dynamics of water quality.
+
 https://www.kaggle.com/datasets/adityakadiwal/water-potability
